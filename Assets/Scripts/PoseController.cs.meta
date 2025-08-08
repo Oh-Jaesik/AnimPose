@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4ccf6b098b051504583d8c979db6af4d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - poseJson: {fileID: 4900000, guid: 9debb66c16bdac646941da05b5143197, type: 3}
+  - animator: {fileID: 5866666021909216657, guid: d15b254afe2eaf64199f63a703bbc63c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
